@@ -1,0 +1,577 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"foc",
+				"focus"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"lef",
+				"left"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"mar",
+				"mar	CSS - margin: 0;"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"ser",
+				"serif"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"social",
+				"social-icons"
+			],
+			[
+				"tex",
+				"text-indent"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"te",
+				"text-indent"
+			],
+			[
+				"fo",
+				"font-variant"
+			],
+			[
+				"im",
+				"img"
+			],
+			[
+				"B",
+				"B749A7"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"after",
+				"after"
+			],
+			[
+				"m",
+				"menu"
+			],
+			[
+				"be",
+				"before"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"main",
+				"main-menu"
+			],
+			[
+				"fot",
+				"font-weight"
+			],
+			[
+				"h",
+				"H6	Tag"
+			],
+			[
+				"span",
+				"span	Tag"
+			],
+			[
+				"i",
+				"iframe	Tag"
+			],
+			[
+				"div",
+				"div	Tag"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"small",
+				"small	Tag"
+			],
+			[
+				"spa",
+				"span	Tag"
+			],
+			[
+				"na",
+				"nav	Tag"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"vi",
+				"viewportWidth"
+			],
+			[
+				"re",
+				"resizrr"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"H",
+				"H1	Tag"
+			],
+			[
+				"men",
+				"menuvertical"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"Se",
+				"section	Tag"
+			],
+			[
+				"D",
+				"DIV	Tag"
+			],
+			[
+				"hr",
+				"HR	Tag"
+			],
+			[
+				"navbar",
+				"navbar-width"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"mo",
+				"moz-radial-gradient"
+			],
+			[
+				"soris",
+				"sorisahr"
+			],
+			[
+				"sec",
+				"SECTION	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/moramedia/Sites/Grupo_Albada/blog/index.html",
+			"settings":
+			{
+				"buffer_size": 9027,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/moramedia/Sites/Grupo_Albada/blog/css/main.css",
+			"settings":
+			{
+				"buffer_size": 10028,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 147.0,
+		"selected_items":
+		[
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Discover Packages"
+			],
+			[
+				"wrap",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"syn htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"syncss",
+				"Set Syntax: CSS"
+			],
+			[
+				"wra",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"wr",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"lo",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lorm",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lor",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"pro",
+				"Project: Add Folder"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"syn scs",
+				"Set Syntax: SCSS"
+			],
+			[
+				"syn sc",
+				"Set Syntax: SCSS"
+			],
+			[
+				"synt s",
+				"Set Syntax: SCSS"
+			],
+			[
+				"ham",
+				"Set Syntax: Ruby Haml"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/moramedia/Sites/Grupo_Albada/blog/css/normalize.css",
+		"/Users/moramedia/Desktop/untitled.html",
+		"/Users/moramedia/Downloads/woothemes-FlexSlider-06b12f8/README.mdown",
+		"/Users/moramedia/Sites/Remarca_nuevo/Sitio/sass/estilo.scss",
+		"/Users/moramedia/Sites/Remarca_nuevo/Sitio/sass/test.scss",
+		"/Users/moramedia/Sites/Remarca_nuevo/Sitio/stylesheets/estilo.css",
+		"/Users/moramedia/Sites/Remarca_nuevo/Sitio/prueba.html",
+		"/Users/moramedia/Sites/Remarca_nuevo/Sitio/sass/_settings.scss",
+		"/Users/moramedia/Sites/Remarca_nuevo/Sitio/sass/app.scss",
+		"/Users/moramedia/Sites/Remarca_nuevo/Sitio/stylesheets/app.css",
+		"/Users/moramedia/Sites/Remarca_nuevo/Sitio/stylesheets/test.css",
+		"/Users/moramedia/Sites/Remarca_nuevo/Sitio/sass/_rounded.scss",
+		"/Users/moramedia/Sites/Remarca_nuevo/Sitio/index.html",
+		"/Users/moramedia/Sites/Remarca_nuevo/Sitio/sass/rounded.scss",
+		"/Users/moramedia/Sites/Remarca_nuevo/Sitio/sass/untitled.scss",
+		"/Users/moramedia/Dropbox/Remarca/Proyectos Activos/Grupo Albada/Reunion 9:11/Reunion Grupo Albada",
+		"/Users/moramedia/Desktop/test.sass",
+		"/Users/moramedia/Desktop/test.css",
+		"/Users/moramedia/Sites/Grupo_Albada/promociones.haml",
+		"/Users/moramedia/Desktop/ellips.haml",
+		"/Users/moramedia/Desktop/this.scss.css",
+		"/Users/moramedia/Sites/Grupo_Albada/promociones.html",
+		"/Users/moramedia/Desktop/style.scss",
+		"/Users/moramedia/Desktop/Untitled 2.scss.css",
+		"/Users/moramedia/Library/Caches/Cleanup At Startup/Transmit/91E2FD38-F17A-4D0F-B32D-BE348426B915/wp-config-sample.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"nav",
+			"menu",
+			"visuallyhidden",
+			"menu",
+			"span",
+			"Grupo",
+			"Cavitación",
+			"Categoría",
+			"Cosmetolog",
+			"768",
+			"Ger"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/moramedia/Sites/Grupo_Albada/blog/index.html",
+					"settings":
+					{
+						"buffer_size": 9027,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2544,
+								2544
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 423.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/moramedia/Sites/Grupo_Albada/blog/css/main.css",
+					"settings":
+					{
+						"buffer_size": 10028,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5884,
+								5884
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4380.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"nor",
+				"css/normalize.css"
+			],
+			[
+				"",
+				"Lorem Ips"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
