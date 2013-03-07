@@ -257,9 +257,7 @@ header hr {
     float: left;
 }
 
-.dropdown li {
-    float: none;
-}
+
 
 #main-menu ul li a {
     display: block;
@@ -278,6 +276,26 @@ header hr {
     content: "\25BC";
     font-size: .5625em;
     padding-left: .7em;
+}
+
+.dropdown {
+    position: absolute;
+    background-color: #b69400;
+    margin-top: -3px;
+    border-top: 3px solid #E1B800;
+
+}
+
+.dropdown li {
+    float: none;
+}
+
+#main-menu .dropdown ul li a:after {
+    content: none;
+}
+
+#main-menu .dropdown ul.sub-columna li {
+    float: none;
 }
 
 .arrow-right {
