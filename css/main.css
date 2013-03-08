@@ -285,6 +285,8 @@ header hr {
     margin-top: -3px;
     border-top: 3px solid #E1B800;
     box-shadow: inset 0px 4px 5px -5px rgba(0,0,0,0.5);
+    padding-bottom: 20px;
+    border-radius: 0 0 5px 5px;
 }
 
 .dropdown li {
@@ -297,6 +299,19 @@ header hr {
 
 #main-menu .dropdown ul.sub-columna li {
     float: none;
+}
+
+#main-menu .dropdown ul li a {
+    padding-bottom: 0;
+}
+
+#main-menu .dropdown ul li a:hover {
+    color: #806800;
+    background: transparent;
+    -webkit-transition: all .15s ease;
+       -moz-transition: all .15s ease;
+         -o-transition: all .15s ease;
+            transition: all .15s ease;
 }
 
 .arrow-right {
@@ -365,6 +380,32 @@ footer {
 
 #breadcrumbs li {
     float: left;
+    margin-left: 8px;
+}
+
+#breadcrumbs li:first-child {
+    margin: 0;
+}
+
+#breadcrumbs li a {
+    text-decoration: none;
+    color: #383838;
+}
+
+#breadcrumbs li a:last-child {
+    color: #E167A7;
+}
+
+#breadcrumbs li a:hover {
+    border-bottom: 2px solid #E167A7;
+    -webkit-transition: all .15s ease;
+       -moz-transition: all .15s ease;
+         -o-transition: all .15s ease;
+            transition: all .15s ease;
+}
+
+#breadcrumbs span {
+    margin-left: 8px;
 }
 
 
