@@ -102,16 +102,24 @@ textarea {
 /*font-family:'Didot W01 Bold';
 font-family:'Didot W02 Bold Italic';*/
 
-body, p, span, h3, h4, h5, h6 {
+body, p, span {
     font-family: 'CallunaSansW01-Regular', sans-serif;
 }
 
 h1, h2 {
     font-family: "AbrilW01-DisplayRegular", Didot, Garamond, serif;
-    font-size: 3.25em;
     line-height: 1.2;
     font-weight: normal;
 }
+
+h3, h4, h5, h6 {
+    font-family: 'Calluna Sans W01 Bold', 'Helvetica-bold', sans-serif;
+    font-weight: normal;
+}
+
+h1 { font-size: 3.25em; }
+h2 { font-size: 2.25em; }
+
 
 form input {
     color: gray;
@@ -135,14 +143,63 @@ form input {
 
 #main-menu ul li a {    
     font-size: 0.875em; /* 14px / 16px */
-    font-family: 'Calluna Sans W01 Bold', sans-serif;
+    font-family: 'Calluna Sans W01 Bold', 'Helvetica-bold', sans-serif;
     text-decoration: none;
     color:#fff;
     letter-spacing: .07em;
 }
 
+/* Article */
 
+time {
+    text-align: center;
+}
 
+time span, time p {
+    font-family: 'AbrilW01-DisplayRegular', Didot, Garamond, serif;
+}
+
+time span {
+    font-size: 1.875em;
+}
+
+time p {
+    color: white;
+}
+
+.author span {
+    color: #E167A7;
+}
+
+article h2 {
+    font-variant: small-caps;
+}
+
+article a {
+    color: #E167A7;
+}
+
+article strong {
+    font-family: 'Calluna Sans W01 Bold', "Helvetica-bold", sans-serif;
+}
+
+blockquote {
+    color: #E167A7;
+}
+
+blockquote small {
+    color: #909090;
+    text-align: right;
+}
+
+blockquote cite {
+    color: #E167A7;
+}
+
+.iniciales {
+    font-size: 90%;
+    text-transform: uppercase;
+}
 
 /* ==========================================================================
    Author's custom styles
@@ -411,9 +468,69 @@ footer {
     margin-left: 8px;
 }
 
+article {
+    position: relative;
+}
 
+time {
+    padding-top: 10px;
+    width: 60px;
+    height: 104px;
+    position: absolute;
+    background-color: #E1B800;
+    top: 0;
+    margin-left: -121px;
+    z-index: -1;
 
+}
 
+time p {
+    margin-top: -10px;
+    clear: left;
+}
+
+.author {
+    margin-top: -35px;
+    margin-bottom: 50px;
+}
+
+blockquote {
+    background-color: #faebf3;
+    padding: 10px 20px 20px;
+    margin: 30px 0px 30px 40px;
+    border: 1px solid #E167A7;
+    border-radius: 5px;
+}
+
+blockquote small {
+    width: 100%;
+    display: block;
+}
+
+abbr[title], abbr[data-original-title] {
+cursor: help;
+border-bottom: 1px dotted #999999;
+}
+
+article ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+article ul li {
+    padding-left: 2.5em;
+    text-indent: -.99em;
+}
+
+article ul li:before {
+    content: "\25A0 \0020";
+    color: #E167A7;
+}
+article ul:last-child li:before {
+    content: none;
+    color: red;
+}
 
 
 /* ==========================================================================
