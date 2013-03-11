@@ -4,28 +4,172 @@
 		"selected_items":
 		[
 			[
+				"tex",
+				"text-indent"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"Hel",
+				"Helvetica-bold"
+			],
+			[
+				"He",
+				"Helvetica-bold"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"blo",
+				"blockquote"
+			],
+			[
+				"bl",
+				"blockquote"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"bol",
+				"bold"
+			],
+			[
+				"San",
+				"Sans"
+			],
+			[
+				"Ca",
+				"CallunaSansW01-Regular"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"no",
+				"normal"
+			],
+			[
+				"Ab",
+				"AbrilW01-DisplayItalic"
+			],
+			[
+				"firs",
+				"first-child"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"au",
+				"author"
+			],
+			[
+				"e1",
+				"E167A7"
+			],
+			[
+				"di",
+				"Didot"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"Callun",
+				"CallunaSansW01-Regular"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"tra",
+				"transition	CSS - transition: ;"
+			],
+			[
+				"ho",
+				"hover"
+			],
+			[
+				"tr",
+				"transition	CSS - transition: ;"
+			],
+			[
+				"E1",
+				"E167A7"
+			],
+			[
+				"fir",
+				"first-child"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"box",
+				"box	CSS - box-sizing: border-box;"
+			],
+			[
+				"san",
+				"sans-serif"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
 				"tran",
 				"transparent"
 			],
 			[
-				"no",
-				"none"
-			],
-			[
-				"box",
-				"box-shadow"
-			],
-			[
 				"foc",
 				"focus"
-			],
-			[
-				"tr",
-				"transparent"
-			],
-			[
-				"bor",
-				"border-top"
 			],
 			[
 				"lef",
@@ -36,20 +180,8 @@
 				"margin-right"
 			],
 			[
-				"li",
-				"link	Tag"
-			],
-			[
 				"bord",
 				"border-bottom"
-			],
-			[
-				"fon",
-				"font-size"
-			],
-			[
-				"tra",
-				"transparent"
 			],
 			[
 				"text",
@@ -58,22 +190,6 @@
 			[
 				"back",
 				"background-color"
-			],
-			[
-				"ba",
-				"background-color"
-			],
-			[
-				"border-",
-				"border-radius"
-			],
-			[
-				"mar",
-				"mar	CSS - margin: 0;"
-			],
-			[
-				"font",
-				"font-family"
 			],
 			[
 				"ser",
@@ -92,20 +208,8 @@
 				"social-icons"
 			],
 			[
-				"tex",
-				"text-indent"
-			],
-			[
-				"pa",
-				"padding-left"
-			],
-			[
 				"te",
 				"text-indent"
-			],
-			[
-				"fo",
-				"font-variant"
 			],
 			[
 				"im",
@@ -192,10 +296,6 @@
 				"resizrr"
 			],
 			[
-				"di",
-				"div	Tag"
-			],
-			[
 				"H",
 				"H1	Tag"
 			],
@@ -244,18 +344,29 @@
 	"buffers":
 	[
 		{
-			"file": "/Users/moramedia/Sites/Grupo_Albada/blog/index.html",
+			"file": "/Users/moramedia/Sites/Grupo_Albada/blog_albada/index.html",
 			"settings":
 			{
-				"buffer_size": 9027,
+				"buffer_size": 10446,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/moramedia/Sites/Grupo_Albada/blog/css/main.css",
+			"file": "/Users/moramedia/Sites/Grupo_Albada/blog_albada/css/main.css",
 			"settings":
 			{
-				"buffer_size": 10028,
+				"buffer_size": 13025,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"file": "/Users/moramedia/Sites/Su[r]render/surrender/surrender/config.rb",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		}
@@ -376,6 +487,8 @@
 	},
 	"file_history":
 	[
+		"/Users/moramedia/Sites/Grupo_Albada/blog/css/main.css",
+		"/Users/moramedia/Sites/Grupo_Albada/blog/index.html",
 		"/Users/moramedia/Sites/Grupo_Albada/blog/css/normalize.css",
 		"/Users/moramedia/Desktop/untitled.html",
 		"/Users/moramedia/Downloads/woothemes-FlexSlider-06b12f8/README.mdown",
@@ -418,6 +531,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"z-inde",
 			"nav",
 			"menu",
 			"visuallyhidden",
@@ -446,51 +560,50 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/moramedia/Sites/Grupo_Albada/blog/index.html",
+					"file": "/Users/moramedia/Sites/Grupo_Albada/blog_albada/index.html",
 					"settings":
 					{
-						"buffer_size": 9027,
+						"buffer_size": 10446,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2544,
-								2544
+								6162,
+								6162
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 423.0,
+						"translation.y": 3614.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/Users/moramedia/Sites/Grupo_Albada/blog/css/main.css",
+					"file": "/Users/moramedia/Sites/Grupo_Albada/blog_albada/css/main.css",
 					"settings":
 					{
-						"buffer_size": 10028,
+						"buffer_size": 13025,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5884,
-								5884
+								9000,
+								9000
 							]
 						],
 						"settings":
@@ -500,7 +613,33 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 4380.0,
+						"translation.y": 7277.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/moramedia/Sites/Su[r]render/surrender/surrender/config.rb",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
