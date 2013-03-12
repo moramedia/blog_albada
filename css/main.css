@@ -216,6 +216,31 @@ aside h6 {
     color: #fff;
 }
 
+.articulos-sidebar a {
+    color: #383838;
+}
+
+.articulos-sidebar a:hover,
+a:focus {
+    color: #E167A7;
+    -webkit-transition: all .2s ease;
+       -moz-transition: all .2s ease;
+        -ms-transition: all .2s ease;
+         -o-transition: all .2s ease;
+            transition: all .2s ease;   
+}
+
+#suscribirse h5 {
+    color: #fff;
+    font-size: 1.764705882em;
+    font-family: 'AbrilW01-DisplayRegular', Didot, Garamond, serif;
+    font-weight: normal;
+}
+
+#suscribirse label {
+    color: #3a1735;
+}
+
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
@@ -565,8 +590,8 @@ aside {
     margin-top: 61px;
 }
 
-.articulos-sidebar {
-    background-color: #faebf3;
+aside > div, aside > nav {
+    margin-bottom: 20px;
 }
 
 aside h6 {
@@ -574,6 +599,83 @@ aside h6 {
     padding: .411764706em .529411765em;
     margin: 0;
 }
+
+.articulos-sidebar ul {
+    margin: 0;
+}
+
+.articulos-sidebar li {
+    border-bottom: #E167A7 dotted 1px;
+    height: 110px;
+    position: relative;
+}
+
+.articulos-sidebar a {
+    display: block;
+}
+
+.articulos-sidebar a img:hover, img:focus {
+    opacity: 0.6;
+    -webkit-transition: all .25s ease;
+       -moz-transition: all .25s ease;
+        -ms-transition: all .25s ease;
+         -o-transition: all .25s ease;
+            transition: all .25s ease;
+}
+
+.articulos-sidebar span {
+    display: block;
+    width: 190px;
+    position: absolute;
+    bottom: 7px;
+    left: 90px;
+}
+
+/*.articulos-sidebar li {
+    background: transparent url('http://placehold.it/80x110') 0 0 no-repeat;
+}
+*/
+.articulos-sidebar {
+    background-color: #faebf3;
+}
+
+#suscribirse {
+    background-color: #B749A7;
+    padding: 20px;
+}
+
+#suscribirse h5 {
+    margin: 0;
+}
+
+#suscribirse form input[name="suscribe"] {
+height: 30px;
+    width: 180px;
+border-radius: 5px 0 0 5px;
+border: none;
+border-top: solid transparent 1px;
+border-bottom: solid #d0d0d0 3px;
+padding-left: 5px;
+float: left;
+}
+
+#suscribirse form button[name="enviar"] {
+    float: left;
+    height: 30px;
+    border-radius: 0 5px 5px 0;
+    border: none;
+    border-left: solid 1px #5e1651;
+    border-top: solid transparent 1px;
+    border-bottom: solid #5e1651 3px;
+    padding: 16px 6px;
+    color: red;
+    background-color:#772f6d;
+    vertical-align: middle;
+    /*color: #772f6d;*/
+    content: "\25b6";
+}
+
+
 
 /* ==========================================================================
    Helper classes
