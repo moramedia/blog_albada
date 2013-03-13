@@ -4,16 +4,116 @@
 		"selected_items":
 		[
 			[
-				"tex",
-				"text-indent"
+				"con",
+				"con	CSS - content: '';"
 			],
 			[
-				"pa",
-				"padding-left"
+				"bor",
+				"border-left"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"marg",
+				"margin-bottom"
 			],
 			[
 				"mar",
+				"mar	CSS - margin: 0;"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"A",
+				"AbrilW01-DisplayRegular"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"tran",
+				"transition	CSS - transition: ;"
+			],
+			[
+				"ho",
+				"hov	CSS - :hover, :focus"
+			],
+			[
+				"ease",
+				"ease-in-out"
+			],
+			[
+				"tabl",
+				"table-cell"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"art",
+				"articulos-sidebar"
+			],
+			[
+				"margin",
 				"margin"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"as",
+				"aside"
+			],
+			[
+				"Cal",
+				"Calluna"
+			],
+			[
+				"comm",
+				"comments"
+			],
+			[
+				"bacg",
+				"background-color"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"tex",
+				"text-indent"
 			],
 			[
 				"co",
@@ -32,20 +132,8 @@
 				"Helvetica-bold"
 			],
 			[
-				"font",
-				"font-weight"
-			],
-			[
-				"blo",
-				"blockquote"
-			],
-			[
 				"bl",
 				"blockquote"
-			],
-			[
-				"fon",
-				"font-style"
 			],
 			[
 				"bol",
@@ -100,10 +188,6 @@
 				"center"
 			],
 			[
-				"ba",
-				"background-color"
-			],
-			[
 				"ab",
 				"absolute"
 			],
@@ -116,28 +200,12 @@
 				"border-bottom"
 			],
 			[
-				"tra",
-				"transition	CSS - transition: ;"
-			],
-			[
-				"ho",
-				"hover"
-			],
-			[
-				"tr",
-				"transition	CSS - transition: ;"
-			],
-			[
 				"E1",
 				"E167A7"
 			],
 			[
 				"fir",
 				"first-child"
-			],
-			[
-				"bor",
-				"border"
 			],
 			[
 				"border",
@@ -156,16 +224,8 @@
 				"li	Tag"
 			],
 			[
-				"con",
-				"content"
-			],
-			[
 				"rel",
 				"relative"
-			],
-			[
-				"tran",
-				"transparent"
 			],
 			[
 				"foc",
@@ -174,10 +234,6 @@
 			[
 				"lef",
 				"left"
-			],
-			[
-				"marg",
-				"margin-right"
 			],
 			[
 				"bord",
@@ -194,10 +250,6 @@
 			[
 				"ser",
 				"serif"
-			],
-			[
-				"in",
-				"inherit"
 			],
 			[
 				"w",
@@ -230,10 +282,6 @@
 			[
 				"after",
 				"after"
-			],
-			[
-				"m",
-				"menu"
 			],
 			[
 				"be",
@@ -344,29 +392,18 @@
 	"buffers":
 	[
 		{
-			"file": "/Users/moramedia/Sites/Grupo_Albada/blog_albada/index.html",
-			"settings":
-			{
-				"buffer_size": 10446,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "/Users/moramedia/Sites/Grupo_Albada/blog_albada/css/main.css",
 			"settings":
 			{
-				"buffer_size": 13025,
+				"buffer_size": 15598,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"contents": "",
-			"file": "/Users/moramedia/Sites/Su[r]render/surrender/surrender/config.rb",
-			"file_size": -1,
-			"file_write_time": -1,
+			"file": "/Users/moramedia/Sites/Grupo_Albada/blog_albada/index.html",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 10619,
 				"line_ending": "Unix"
 			}
 		}
@@ -487,6 +524,9 @@
 	},
 	"file_history":
 	[
+		"/Users/moramedia/Sites/Grupo_Albada/blog_albada/index.html",
+		"/Users/moramedia/Sites/Grupo_Albada/blog_albada/css/main.css",
+		"/Users/moramedia/Sites/Su[r]render/surrender/surrender/config.rb",
 		"/Users/moramedia/Sites/Grupo_Albada/blog/css/main.css",
 		"/Users/moramedia/Sites/Grupo_Albada/blog/index.html",
 		"/Users/moramedia/Sites/Grupo_Albada/blog/css/normalize.css",
@@ -531,6 +571,17 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"aside",
+			"0",
+			"60",
+			"44",
+			"main",
+			"di",
+			"div",
+			"divider",
+			"bre",
+			"17px",
+			"blockq",
 			"z-inde",
 			"nav",
 			"menu",
@@ -560,50 +611,23 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/moramedia/Sites/Grupo_Albada/blog_albada/index.html",
-					"settings":
-					{
-						"buffer_size": 10446,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6162,
-								6162
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 3614.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "/Users/moramedia/Sites/Grupo_Albada/blog_albada/css/main.css",
 					"settings":
 					{
-						"buffer_size": 13025,
+						"buffer_size": 15598,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								9000,
-								9000
+								11738,
+								11743
 							]
 						],
 						"settings":
@@ -613,33 +637,34 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 7277.0,
+						"translation.y": 9393.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "/Users/moramedia/Sites/Su[r]render/surrender/surrender/config.rb",
+					"buffer": 1,
+					"file": "/Users/moramedia/Sites/Grupo_Albada/blog_albada/index.html",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 10619,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								8390,
+								8390
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 3320.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
