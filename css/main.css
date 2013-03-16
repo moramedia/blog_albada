@@ -212,6 +212,10 @@ blockquote cite {
     font-size: 1.058823529em; 
 }
 
+footer a {
+    text-decoration: none;
+}
+
 /* Sidebar */
 
 aside h6 {
@@ -254,6 +258,25 @@ footer h6 {
 
 footer p {
     font-size: .941176471em;
+    color:#909090;
+}
+
+footer nav a {
+    text-decoration: none;
+    color:#909090;
+}
+
+footer nav a:hover {
+    border-bottom: 2px solid;
+    color: #B749A7;
+    -webkit-transition: all .15s ease;
+       -moz-transition: all .15s ease;
+         -o-transition: all .15s ease;
+            transition: all .15s ease;
+}
+
+#copyright a {
+    color: #E1B800;
 }
 
 
@@ -741,6 +764,10 @@ footer nav > ul {
 footer nav > ul > li {
     float: left;
     margin-right: 40px;
+}
+
+footer nav > ul > li > ul li {
+    margin-left: 15px;
 }
 
 #copyright {
