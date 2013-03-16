@@ -4,12 +4,40 @@
 		"selected_items":
 		[
 			[
-				"con",
-				"con	CSS - content: '';"
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"ad",
+				"ad-sidebar"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"bord",
+				"border-top"
 			],
 			[
 				"bor",
-				"border-left"
+				"border"
+			],
+			[
+				"con",
+				"con	CSS - content: '';"
 			],
 			[
 				"tr",
@@ -20,20 +48,12 @@
 				"margin-bottom"
 			],
 			[
-				"mar",
-				"mar	CSS - margin: 0;"
-			],
-			[
 				"fon",
 				"font-weight"
 			],
 			[
 				"A",
 				"AbrilW01-DisplayRegular"
-			],
-			[
-				"font",
-				"font-family"
 			],
 			[
 				"ba",
@@ -110,10 +130,6 @@
 			[
 				"padding",
 				"padding"
-			],
-			[
-				"tex",
-				"text-indent"
 			],
 			[
 				"co",
@@ -234,14 +250,6 @@
 			[
 				"lef",
 				"left"
-			],
-			[
-				"bord",
-				"border-bottom"
-			],
-			[
-				"text",
-				"text-decoration"
 			],
 			[
 				"back",
@@ -395,7 +403,7 @@
 			"file": "/Users/moramedia/Sites/Grupo_Albada/blog_albada/css/main.css",
 			"settings":
 			{
-				"buffer_size": 15598,
+				"buffer_size": 16251,
 				"line_ending": "Unix"
 			}
 		},
@@ -524,6 +532,7 @@
 	},
 	"file_history":
 	[
+		"/Users/moramedia/Downloads/bjango-Bjango-Actions-378a0aa/Readme.md",
 		"/Users/moramedia/Sites/Grupo_Albada/blog_albada/index.html",
 		"/Users/moramedia/Sites/Grupo_Albada/blog_albada/css/main.css",
 		"/Users/moramedia/Sites/Su[r]render/surrender/surrender/config.rb",
@@ -571,6 +580,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"form",
+			"a:visted",
+			"content",
 			"aside",
 			"0",
 			"60",
@@ -619,15 +631,15 @@
 					"file": "/Users/moramedia/Sites/Grupo_Albada/blog_albada/css/main.css",
 					"settings":
 					{
-						"buffer_size": 15598,
+						"buffer_size": 16251,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								11738,
-								11743
+								12400,
+								12400
 							]
 						],
 						"settings":
@@ -637,7 +649,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 9393.0,
+						"translation.y": 10013.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -654,8 +666,8 @@
 						"selection":
 						[
 							[
-								8390,
-								8390
+								8180,
+								8184
 							]
 						],
 						"settings":
@@ -664,7 +676,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 3320.0,
+						"translation.y": 2829.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

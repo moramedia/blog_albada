@@ -248,6 +248,14 @@ a:focus {
     font-size: .823529412em;
 }
 
+footer h6 { 
+    color: #B749A7;
+}
+
+footer p {
+    font-size: .941176471em;
+}
+
 
 /* ==========================================================================
    Author's custom styles
@@ -314,7 +322,7 @@ html {
 .twitter { background: url('../img/icons/social/twitter.png') no-repeat; }
 
 #page-wrap {
-    margin: 50px auto 297px;
+    margin: 50px auto 42px;
     background: white;
     box-shadow: 0 0 20px rgba(0,0,0,0.4);
     padding-bottom: 3.058823529em;
@@ -709,6 +717,35 @@ aside h6 {
 
 .ad-sidebar img {
     margin-bottom: 5px;
+}
+
+/* Footer */
+
+#about {
+    width: 29.6875%;
+    float: left;
+}
+
+footer nav {
+    float: right;
+    display: block;
+    width: 68.229166667%;
+    margin-left:20px;
+}
+
+footer nav > ul {
+    float: left;
+    margin: 0;
+}
+
+footer nav > ul > li {
+    float: left;
+    margin-right: 40px;
+}
+
+#copyright {
+    width: 100%;
+    clear: both;
 }
 
 /* ==========================================================================
