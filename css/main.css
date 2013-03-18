@@ -963,4 +963,24 @@ footer nav > ul > li > ul li {
     h3 {
         page-break-after: avoid;
     }
+
+    /* Non printables */
+
+    #follow, .menu, #suscribirse, #comments, #grupoalbada, #about, footer nav, .banda {
+        display: none;
+    }
+
+    #page-wrap, #main-content {
+        margin-top: 0;
+        padding-bottom: 0; 
+    }
+
+    #copyright {
+        position: absolute;
+        bottom: 0;
+    }
+
+    header {
+        padding-top: 0;
+    }
 }

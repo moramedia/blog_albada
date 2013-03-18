@@ -4,8 +4,40 @@
 		"selected_items":
 		[
 			[
+				"E1",
+				"E1B800"
+			],
+			[
 				"mar",
-				"margin-bottom"
+				"margin-left"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"bot",
+				"both"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"siz",
+				"font-size"
 			],
 			[
 				"ad",
@@ -22,10 +54,6 @@
 			[
 				"pad",
 				"padding-top"
-			],
-			[
-				"text",
-				"text-align"
 			],
 			[
 				"bord",
@@ -80,10 +108,6 @@
 				"table-cell"
 			],
 			[
-				"in",
-				"inline"
-			],
-			[
 				"blo",
 				"block"
 			],
@@ -94,10 +118,6 @@
 			[
 				"art",
 				"articulos-sidebar"
-			],
-			[
-				"margin",
-				"margin"
 			],
 			[
 				"pa",
@@ -180,10 +200,6 @@
 				"first-child"
 			],
 			[
-				"ma",
-				"margin-bottom"
-			],
-			[
 				"au",
 				"author"
 			],
@@ -214,10 +230,6 @@
 			[
 				"border-",
 				"border-bottom"
-			],
-			[
-				"E1",
-				"E167A7"
 			],
 			[
 				"fir",
@@ -403,7 +415,7 @@
 			"file": "/Users/moramedia/Sites/Grupo_Albada/blog_albada/css/main.css",
 			"settings":
 			{
-				"buffer_size": 16251,
+				"buffer_size": 17114,
 				"line_ending": "Unix"
 			}
 		},
@@ -411,7 +423,15 @@
 			"file": "/Users/moramedia/Sites/Grupo_Albada/blog_albada/index.html",
 			"settings":
 			{
-				"buffer_size": 10619,
+				"buffer_size": 18746,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/moramedia/Desktop/untitled.txt",
+			"settings":
+			{
+				"buffer_size": 8020,
 				"line_ending": "Unix"
 			}
 		}
@@ -580,6 +600,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"text-decoration",
 			"form",
 			"a:visted",
 			"content",
@@ -623,7 +644,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -631,15 +652,15 @@
 					"file": "/Users/moramedia/Sites/Grupo_Albada/blog_albada/css/main.css",
 					"settings":
 					{
-						"buffer_size": 16251,
+						"buffer_size": 17114,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								12400,
-								12400
+								5070,
+								5070
 							]
 						],
 						"settings":
@@ -649,7 +670,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 10013.0,
+						"translation.y": 3590.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -659,15 +680,15 @@
 					"file": "/Users/moramedia/Sites/Grupo_Albada/blog_albada/index.html",
 					"settings":
 					{
-						"buffer_size": 10619,
+						"buffer_size": 18746,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								8180,
-								8184
+								7854,
+								15874
 							]
 						],
 						"settings":
@@ -676,7 +697,33 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2829.0,
+						"translation.y": 5009.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/moramedia/Desktop/untitled.txt",
+					"settings":
+					{
+						"buffer_size": 8020,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8020,
+								8020
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 284.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
