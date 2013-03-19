@@ -427,6 +427,17 @@
 	},
 	"buffers":
 	[
+		{
+			"contents": "<?php\n/**\n * The template for displaying Archive pages.\n *\n * Learn more: http://codex.wordpress.org/Template_Hierarchy\n *\n * @package Albada\n */\n\nget_header(); ?>\n\n	<section id=\"primary\" class=\"content-area\">\n		<div id=\"content\" class=\"site-content\" role=\"main\">\n\n		<?php if ( have_posts() ) : ?>\n\n			<header class=\"page-header\">\n				<h1 class=\"page-title\">\n					<?php\n						if ( is_category() ) {\n							printf( __( 'Category Archives: %s', 'albada' ), '<span>' . single_cat_title( '', false ) . '</span>' );\n\n						} elseif ( is_tag() ) {\n							printf( __( 'Tag Archives: %s', 'albada' ), '<span>' . single_tag_title( '', false ) . '</span>' );\n\n						} elseif ( is_author() ) {\n							/* Queue the first post, that way we know\n							 * what author we're dealing with (if that is the case).\n							*/\n							the_post();\n							printf( __( 'Author Archives: %s', 'albada' ), '<span class=\"vcard\"><a class=\"url fn n\" href=\"' . esc_url( get_author_posts_url( get_the_author_meta( \"ID\" ) ) ) . '\" title=\"' . esc_attr( get_the_author() ) . '\" rel=\"me\">' . get_the_author() . '</a></span>' );\n							/* Since we called the_post() above, we need to\n							 * rewind the loop back to the beginning that way\n							 * we can run the loop properly, in full.\n							 */\n							rewind_posts();\n\n						} elseif ( is_day() ) {\n							printf( __( 'Daily Archives: %s', 'albada' ), '<span>' . get_the_date() . '</span>' );\n\n						} elseif ( is_month() ) {\n							printf( __( 'Monthly Archives: %s', 'albada' ), '<span>' . get_the_date( 'F Y' ) . '</span>' );\n\n						} elseif ( is_year() ) {\n							printf( __( 'Yearly Archives: %s', 'albada' ), '<span>' . get_the_date( 'Y' ) . '</span>' );\n\n						} else {\n							_e( 'Archives', 'albada' );\n\n						}\n					?>\n				</h1>\n				<?php\n					if ( is_category() ) {\n						// show an optional category description\n						$category_description = category_description();\n						if ( ! empty( $category_description ) )\n							echo apply_filters( 'category_archive_meta', '<div class=\"taxonomy-description\">' . $category_description . '</div>' );\n\n					} elseif ( is_tag() ) {\n						// show an optional tag description\n						$tag_description = tag_description();\n						if ( ! empty( $tag_description ) )\n							echo apply_filters( 'tag_archive_meta', '<div class=\"taxonomy-description\">' . $tag_description . '</div>' );\n					}\n				?>\n			</header><!-- .page-header -->\n\n			<?php /* Start the Loop */ ?>\n			<?php while ( have_posts() ) : the_post(); ?>\n\n				<?php\n					/* Include the Post-Format-specific template for the content.\n					 * If you want to overload this in a child theme then include a file\n					 * called content-___.php (where ___ is the Post Format name) and that will be used instead.\n					 */\n					get_template_part( 'content', get_post_format() );\n				?>\n\n			<?php endwhile; ?>\n\n			<?php albada_content_nav( 'nav-below' ); ?>\n\n		<?php else : ?>\n\n			<?php get_template_part( 'no-results', 'archive' ); ?>\n\n		<?php endif; ?>\n\n		</div><!-- #content -->\n	</section><!-- #primary -->\n\n<?php get_sidebar(); ?>\n<?php get_footer(); ?>",
+			"file": "/Applications/MAMP/htdocs/wp-content/themes/albada/archive.php",
+			"file_size": 3068,
+			"file_write_time": 1363678238000000,
+			"settings":
+			{
+				"buffer_size": 3068,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -641,8 +652,36 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/Applications/MAMP/htdocs/wp-content/themes/albada/archive.php",
+					"settings":
+					{
+						"buffer_size": 3068,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
