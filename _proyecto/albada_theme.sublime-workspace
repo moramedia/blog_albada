@@ -4,6 +4,206 @@
 		"selected_items":
 		[
 			[
+				"ad",
+				"ad_thumb"
+			],
+			[
+				"ad_",
+				"ad_thumb"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"is_ar",
+				"is_archive"
+			],
+			[
+				"wp",
+				"wp_reset_query"
+			],
+			[
+				"the_ti",
+				"the_title"
+			],
+			[
+				"the_titl",
+				"the_title_attribute"
+			],
+			[
+				"wp_get",
+				"wp_get_attachment_image_src"
+			],
+			[
+				"pop",
+				"popular_query"
+			],
+			[
+				"e",
+				"enviar"
+			],
+			[
+				"end",
+				"endwhile"
+			],
+			[
+				"th",
+				"thumbie"
+			],
+			[
+				"wp_ge",
+				"wp_get_attachment_image_src"
+			],
+			[
+				"first",
+				"first-child"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"Ca",
+				"Calluna"
+			],
+			[
+				"font",
+				"font-variant"
+			],
+			[
+				"lef",
+				"lef	CSS - left: 0;"
+			],
+			[
+				"mou",
+				"mouseout"
+			],
+			[
+				"chi",
+				"children"
+			],
+			[
+				"sub",
+				"sub-menu"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"sel",
+				"selected"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"s",
+				"selected"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"cat",
+				"cat-links"
+			],
+			[
+				"ho",
+				"hover"
+			],
+			[
+				"E1",
+				"E167A7"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"art",
+				"article"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"te",
+				"text-indent"
+			],
+			[
+				"get_pa",
+				"get_pagenum_link"
+			],
+			[
+				"max_",
+				"max_num_pages"
+			],
+			[
+				"esc",
+				"esc_url"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"excerpt",
+				"excerpt_read_more_link"
+			],
+			[
+				"menu",
+				"menu-p"
+			],
+			[
+				"is_",
+				"is_array"
+			],
+			[
+				"side",
+				"side-thumb"
+			],
+			[
+				"ba",
+				"background-attachment"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"or",
+				"original_post"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
 				"E",
 				"E167A7"
 			],
@@ -16,16 +216,8 @@
 				"box-shadow"
 			],
 			[
-				"ho",
-				"hov	CSS - :hover, :focus"
-			],
-			[
 				"ta",
 				"table"
-			],
-			[
-				"text",
-				"text-align"
 			],
 			[
 				"bord",
@@ -36,28 +228,8 @@
 				"border-bottom"
 			],
 			[
-				"te",
-				"text-decoration"
-			],
-			[
 				"tex",
 				"text-decoration"
-			],
-			[
-				"margi",
-				"margin-bottom"
-			],
-			[
-				"padd",
-				"padding"
-			],
-			[
-				"marg",
-				"margin-top"
-			],
-			[
-				"ba",
-				"background-color"
 			],
 			[
 				"pa",
@@ -68,20 +240,8 @@
 				"main-content"
 			],
 			[
-				"mar",
-				"mar	CSS - margin: 0;"
-			],
-			[
 				"page",
 				"page-wrap"
-			],
-			[
-				"E1",
-				"E1B800"
-			],
-			[
-				"in",
-				"inherit"
 			],
 			[
 				"bot",
@@ -104,14 +264,6 @@
 				"font-size"
 			],
 			[
-				"ad",
-				"ad-sidebar"
-			],
-			[
-				"font",
-				"font-size"
-			],
-			[
 				"pad",
 				"padding-top"
 			],
@@ -122,10 +274,6 @@
 			[
 				"tr",
 				"transparent"
-			],
-			[
-				"fon",
-				"font-weight"
 			],
 			[
 				"A",
@@ -154,10 +302,6 @@
 			[
 				"tra",
 				"transparent"
-			],
-			[
-				"art",
-				"articulos-sidebar"
 			],
 			[
 				"m",
@@ -216,16 +360,8 @@
 				"Sans"
 			],
 			[
-				"Ca",
-				"CallunaSansW01-Regular"
-			],
-			[
 				"fo",
 				"font-weight"
-			],
-			[
-				"no",
-				"normal"
 			],
 			[
 				"Ab",
@@ -286,10 +422,6 @@
 			[
 				"foc",
 				"focus"
-			],
-			[
-				"lef",
-				"left"
 			],
 			[
 				"back",
@@ -382,59 +514,48 @@
 			[
 				"H",
 				"H1	Tag"
-			],
-			[
-				"men",
-				"menuvertical"
-			],
-			[
-				"u",
-				"ul	Tag"
-			],
-			[
-				"Se",
-				"section	Tag"
-			],
-			[
-				"D",
-				"DIV	Tag"
-			],
-			[
-				"hr",
-				"HR	Tag"
-			],
-			[
-				"navbar",
-				"navbar-width"
-			],
-			[
-				"nav",
-				"navbar"
-			],
-			[
-				"mo",
-				"moz-radial-gradient"
-			],
-			[
-				"soris",
-				"sorisahr"
-			],
-			[
-				"sec",
-				"SECTION	Tag"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"contents": "<?php\n/**\n * The template for displaying Archive pages.\n *\n * Learn more: http://codex.wordpress.org/Template_Hierarchy\n *\n * @package Albada\n */\n\nget_header(); ?>\n\n	<section id=\"primary\" class=\"content-area\">\n		<div id=\"content\" class=\"site-content\" role=\"main\">\n\n		<?php if ( have_posts() ) : ?>\n\n			<header class=\"page-header\">\n				<h1 class=\"page-title\">\n					<?php\n						if ( is_category() ) {\n							printf( __( 'Category Archives: %s', 'albada' ), '<span>' . single_cat_title( '', false ) . '</span>' );\n\n						} elseif ( is_tag() ) {\n							printf( __( 'Tag Archives: %s', 'albada' ), '<span>' . single_tag_title( '', false ) . '</span>' );\n\n						} elseif ( is_author() ) {\n							/* Queue the first post, that way we know\n							 * what author we're dealing with (if that is the case).\n							*/\n							the_post();\n							printf( __( 'Author Archives: %s', 'albada' ), '<span class=\"vcard\"><a class=\"url fn n\" href=\"' . esc_url( get_author_posts_url( get_the_author_meta( \"ID\" ) ) ) . '\" title=\"' . esc_attr( get_the_author() ) . '\" rel=\"me\">' . get_the_author() . '</a></span>' );\n							/* Since we called the_post() above, we need to\n							 * rewind the loop back to the beginning that way\n							 * we can run the loop properly, in full.\n							 */\n							rewind_posts();\n\n						} elseif ( is_day() ) {\n							printf( __( 'Daily Archives: %s', 'albada' ), '<span>' . get_the_date() . '</span>' );\n\n						} elseif ( is_month() ) {\n							printf( __( 'Monthly Archives: %s', 'albada' ), '<span>' . get_the_date( 'F Y' ) . '</span>' );\n\n						} elseif ( is_year() ) {\n							printf( __( 'Yearly Archives: %s', 'albada' ), '<span>' . get_the_date( 'Y' ) . '</span>' );\n\n						} else {\n							_e( 'Archives', 'albada' );\n\n						}\n					?>\n				</h1>\n				<?php\n					if ( is_category() ) {\n						// show an optional category description\n						$category_description = category_description();\n						if ( ! empty( $category_description ) )\n							echo apply_filters( 'category_archive_meta', '<div class=\"taxonomy-description\">' . $category_description . '</div>' );\n\n					} elseif ( is_tag() ) {\n						// show an optional tag description\n						$tag_description = tag_description();\n						if ( ! empty( $tag_description ) )\n							echo apply_filters( 'tag_archive_meta', '<div class=\"taxonomy-description\">' . $tag_description . '</div>' );\n					}\n				?>\n			</header><!-- .page-header -->\n\n			<?php /* Start the Loop */ ?>\n			<?php while ( have_posts() ) : the_post(); ?>\n\n				<?php\n					/* Include the Post-Format-specific template for the content.\n					 * If you want to overload this in a child theme then include a file\n					 * called content-___.php (where ___ is the Post Format name) and that will be used instead.\n					 */\n					get_template_part( 'content', get_post_format() );\n				?>\n\n			<?php endwhile; ?>\n\n			<?php albada_content_nav( 'nav-below' ); ?>\n\n		<?php else : ?>\n\n			<?php get_template_part( 'no-results', 'archive' ); ?>\n\n		<?php endif; ?>\n\n		</div><!-- #content -->\n	</section><!-- #primary -->\n\n<?php get_sidebar(); ?>\n<?php get_footer(); ?>",
-			"file": "/Applications/MAMP/htdocs/wp-content/themes/albada/archive.php",
-			"file_size": 3068,
-			"file_write_time": 1363678238000000,
+			"file": "/Applications/MAMP/htdocs/wp-content/themes/albada/single.php",
 			"settings":
 			{
-				"buffer_size": 3068,
+				"buffer_size": 683,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/wp-content/themes/albada/header.php",
+			"settings":
+			{
+				"buffer_size": 3432,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/wp-content/themes/albada/footer.php",
+			"settings":
+			{
+				"buffer_size": 1908,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/wp-content/themes/albada/sidebar.php",
+			"settings":
+			{
+				"buffer_size": 2671,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/wp-404-handler.php",
+			"settings":
+			{
+				"buffer_size": 174,
 				"line_ending": "Unix"
 			}
 		}
@@ -442,9 +563,17 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 47.0,
 		"selected_items":
 		[
+			[
+				"syn php",
+				"Set Syntax: PHP"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
 			[
 				"css",
 				"Set Syntax: CSS"
@@ -555,6 +684,28 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/wp-content/themes/albada/archive.php",
+		"/Applications/MAMP/htdocs/wp-content/themes/albada/functions.php",
+		"/Applications/MAMP/htdocs/wp-content/themes/albada/ads.php",
+		"/Applications/MAMP/htdocs/wp-content/themes/albada/no-results.php",
+		"/Applications/MAMP/htdocs/wp-content/themes/albada/sidebar.php",
+		"/Applications/MAMP/htdocs/wp-content/themes/albada/single.php",
+		"/Applications/MAMP/htdocs/wp-content/themes/albada/404.php",
+		"/Applications/MAMP/htdocs/wp-content/themes/albada/js/plugins.js",
+		"/Applications/MAMP/htdocs/wp-content/themes/albada/footer.php",
+		"/Applications/MAMP/htdocs/wp-content/themes/albada/content.php",
+		"/Applications/MAMP/htdocs/wp-content/themes/albada/style.css",
+		"/Applications/MAMP/htdocs/wp-content/themes/albada/content-single.php",
+		"/Applications/MAMP/htdocs/wp-content/themes/albada/inc/template-tags.php",
+		"/Applications/MAMP/htdocs/wp-content/themes/albada/inc/jetpack.php",
+		"/Applications/MAMP/htdocs/wp-content/themes/albada/contacto.php",
+		"/Applications/MAMP/htdocs/wp-content/themes/albada/header.php",
+		"/Applications/MAMP/htdocs/wp-content/themes/albada/mixture.json",
+		"/Applications/MAMP/htdocs/wp-content/themes/albada/search.php",
+		"/Applications/MAMP/htdocs/wp-content/themes/albada/page.php",
+		"/Applications/MAMP/htdocs/wp-content/themes/albada/content-page.php",
+		"/Applications/MAMP/htdocs/wp-content/themes/albada/searchform.php",
+		"/Applications/MAMP/htdocs/wp-content/themes/albada/timthumb/timthumb.php",
 		"/Users/moramedia/Sites/Grupo_Albada/blog_albada/css/main.css",
 		"/Users/moramedia/Sites/Grupo_Albada/blog_albada/css/home.css",
 		"/Users/moramedia/Sites/Grupo_Albada/blog_albada/home.html",
@@ -606,6 +757,43 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"189",
+			"sus",
+			"form",
+			"a",
+			"h3",
+			"header",
+			"grupo",
+			"cop",
+			"grupo",
+			"cop",
+			"footer",
+			"bread",
+			"p",
+			"footer",
+			"time",
+			"form",
+			".entry-header",
+			"entry-header",
+			".more",
+			"author",
+			"intro",
+			"cite",
+			"time",
+			"post_",
+			"span",
+			"entry-met",
+			"posted",
+			".more",
+			"blog-post",
+			".blog-post",
+			"menu-p",
+			"#main-menu",
+			".menu",
+			"main-menu",
+			"blog",
+			"home",
+			"../",
 			"gray",
 			"time",
 			"text-decoration",
@@ -652,29 +840,136 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 4,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/Applications/MAMP/htdocs/wp-content/themes/albada/archive.php",
+					"file": "/Applications/MAMP/htdocs/wp-content/themes/albada/single.php",
 					"settings":
 					{
-						"buffer_size": 3068,
+						"buffer_size": 683,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								541,
+								541
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/PHP/PHP.tmLanguage",
 							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Applications/MAMP/htdocs/wp-content/themes/albada/header.php",
+					"settings":
+					{
+						"buffer_size": 3432,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2546,
+								2546
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 368.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Applications/MAMP/htdocs/wp-content/themes/albada/footer.php",
+					"settings":
+					{
+						"buffer_size": 1908,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1130,
+								1130
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 101.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Applications/MAMP/htdocs/wp-content/themes/albada/sidebar.php",
+					"settings":
+					{
+						"buffer_size": 2671,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2166,
+								2166
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 907.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Applications/MAMP/htdocs/wp-404-handler.php",
+					"settings":
+					{
+						"buffer_size": 174,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								172,
+								172
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -726,6 +1021,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"meta",
+				"inc/template-tags.php"
+			],
 			[
 				"nor",
 				"css/normalize.css"
